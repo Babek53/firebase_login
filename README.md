@@ -1,36 +1,13 @@
 # MyApp
 
 This project is a Flutter application with Firebase authentication and theme management using GetX. The application allows users to register, log in, reset passwords, and toggle between light and dark themes.
-## Project Structure
-ib/
-├── controllers/
-│ ├── auth_controller.dart # Authentication controller
-│ └── theme_notifier.dart # Theme management controller
-├── services/
-│ └── auth_service.dart # Firebase authentication service
-├── themes/
-│ ├── custom_color_scheme.dart # Custom color schemes
-│ ├── custom_dark_theme.dart # Custom dark theme
-│ ├── custom_light_theme.dart # Custom light theme
-│ └── custom_theme.dart # Custom theme abstract class
-├── ui/
-│ ├── auth/
-│ │ ├── login_page.dart # Login page
-│ │ ├── recover_password_page.dart # Password recovery page
-│ │ └── register_page.dart # Registration page
-│ ├── home/
-│ │ ├── custom_drawer.dart # Custom drawer for the home screen
-│ │ └── home_screen.dart # Home screen
-│ ├── widgets/
-│ │ ├── confirmation_dialog.dart # Custom confirmation dialog
-│ │ ├── custom_button.dart # Custom button widget
-│ │ ├── custom_form_field.dart # Custom form field widget
-│ │ ├── custom_icon_button.dart # Custom icon button widget
-│ │ └── dialog_card.dart # Custom dialog card widget
-├── utils/
-│ ├── dialogs.dart # Utility for showing dialogs
-│ └── validators.dart # Form validators
-└── main.dart # Main entry point of the application 
+# Project Structure
+
+
+# Project Structure
+
+![Project Structure](./images/project_structure.png)
+
 
 ## Table of Contents
 - [Project Structure](#project-structure)
