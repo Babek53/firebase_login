@@ -121,12 +121,3 @@ xml
 
 - **Toggle Theme:**
   - Open the drawer and click on "Light Mode" or "Dark Mode" to switch themes.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# firebase_login
