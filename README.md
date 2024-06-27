@@ -3,9 +3,6 @@
 This project is a Flutter application with Firebase authentication and theme management using GetX. The application allows users to register, log in, reset passwords, and toggle between light and dark themes.
 # Project Structure
 
-
-# Project Structure
-
 ![Project Structure](./images/project_structure.png)
 
 
