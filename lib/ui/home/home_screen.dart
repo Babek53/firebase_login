@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Home Screen'),
       ),
-      drawer: const CustomDrawer(), // CustomDrawer'ı buraya ekliyoruz
+      drawer: const CustomDrawer(), 
       body: const Center(
         child: Text('Welcome to the Home Screen!'),
       ),
